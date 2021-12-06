@@ -4,6 +4,5 @@
 - 📫 How to reach me goutammandal44@gmail.com
 
 <!---
-GMandal44/GMandal44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+This is a brief description about me.
 --->
